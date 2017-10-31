@@ -1,0 +1,2 @@
+# kuraLLsz
+Turkish Economy Plugin
